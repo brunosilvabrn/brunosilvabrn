@@ -20,12 +20,10 @@ do Piauí.
 
 <img align="right" src="https://thumbs.gfycat.com/HeavyLiquidAnnelid-size_restricted.gif" />
 
-Tenho conhecimento nas áreas de desenvolvimento backend utilizando Php, banco de dados com Mysql, desenvolvimento web frontend utilizando html, css, javascript e tambem já utilizei a linguagem Java para realizar trabalhos acadêmicos.
-
+Tenho conhecimento nas áreas de desenvolvimento backend utilizando Php, banco de dados Mysql, desenvolvimento web frontend utilizando html, css, javascript e tambem já utilizei a linguagem Java para realizar **trabalhos acadêmicos**.
 <br>
 
 **O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis.**  
-
 
 ## Tecnologias e skills
 
