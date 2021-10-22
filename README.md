@@ -5,7 +5,7 @@
     <img align="left" height="25" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
   </a>
   <a href="https://www.instagram.com/brunosilva_brn/">
-    <img align="left" height="25" src="https://image.flaticon.com/icons/svg/2111/2111463.svg" />
+    <img align="left" height="25" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
   </a>
   <a href="https://github.com/brunosilvabrn">
     <img align="left" height="25" src="https://image.flaticon.com/icons/svg/733/733609.svg" />
