@@ -8,7 +8,7 @@
     <img align="left" height="25" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
   </a>
   <a href="https://github.com/brunosilvabrn">
-    <img align="left" height="25" src="https://image.flaticon.com/icons/svg/733/733609.svg" />
+    <img align="left" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   </a>
 </div>
 
@@ -36,6 +36,7 @@ Tenho conhecimento nas áreas de desenvolvimento backend utilizando Php, banco d
   <img align="left" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="left" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="left" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="left" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
 </div>
 
 <!-- ### Hi there 👋 -->
