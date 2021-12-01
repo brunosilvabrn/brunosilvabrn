@@ -14,13 +14,13 @@
 
 <br>
 <br>
-Olá me chamo Bruno Lopes Silva, sou estudante de programação e desenvolvedor Web. Atualmente estou cursando o curso de Informática pelo IFPI - Instituto Federal
-do Piauí. 
+Olá me chamo Bruno Lopes Silva, Desenvolvedor Web e estudante de programação. Atualmente estou cursando o curso de Informática pelo IFPI - Instituto Federal
+do Piauí.
 
 
 <img align="right" src="https://thumbs.gfycat.com/HeavyLiquidAnnelid-size_restricted.gif" />
 
-Tenho conhecimento nas áreas de desenvolvimento backend utilizando Php, banco de dados Mysql, desenvolvimento web frontend utilizando html, css, javascript e tambem já utilizei a linguagem Java para realizar **trabalhos acadêmicos**.
+Tenho conhecimento nas áreas de desenvolvimento Fullstack Web, no backend utilizando Php e Mysql, desenvolvimento web frontend utilizando html, css, bootstrap, javascript e tambem já utilizei a linguagem Java para realizar **trabalhos acadêmicos**.
 <br>
 
 **O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis.**  
