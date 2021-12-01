@@ -14,7 +14,7 @@
 
 <br>
 <br>
-Olá me chamo Bruno Lopes Silva, Desenvolvedor Web e estudante de programação. Atualmente estou cursando o curso de Informática pelo IFPI - Instituto Federal
+Olá me chamo Bruno Lopes Silva, Sou Desenvolvedor Web e estudante de programação. Atualmente estou cursando o curso de Informática pelo IFPI - Instituto Federal
 do Piauí.
 
 
