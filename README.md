@@ -37,6 +37,7 @@ Tenho conhecimento nas áreas de desenvolvimento Fullstack Web, utilizando Php e
   <img align="left" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="left" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+  <img align="left" height="35" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
 </div>
 
 <!-- ### Hi there 👋 -->
