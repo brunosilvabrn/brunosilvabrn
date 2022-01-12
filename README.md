@@ -1,4 +1,4 @@
-# Olá, me chamo Bruno Lopes Silva,
+# Bruno Lopes Silva 🖥️  Full Stack - Web Developer
 
 <div class="icons">
   <a href="mailto:brunolopessilva34@gmail.com">
@@ -13,17 +13,24 @@
 </div>
 
 <br>
-<br>
-Sou Desenvolvedor Web e estudante de programação. Atualmente estou cursando o curso de Informática pelo IFPI - Instituto Federal
-do Piauí.
 
+## 🧑‍💻 PHP, JAVASCRIPT, MYSQL, HTML e CSS.
+
+
+Sou desenvolvedor web desenvolvo site e sistemas web utilizando **HTML, CSS, JAVASCRIPT**, Utilizando **PHP e MYSQL** para desenvolver backend das aplicações. 
 
 <img align="right" src="https://thumbs.gfycat.com/HeavyLiquidAnnelid-size_restricted.gif" />
 
-Tenho conhecimento nas áreas de desenvolvimento Fullstack Web, utilizando Php e Mysql no backend, desenvolvimento web frontend utilizando html, css, bootstrap, javascript e tambem já utilizei a linguagem Java para realizar **trabalhos acadêmicos**.
-<br>
+### 📖 Conhecimentos 
 
-**O sucesso nasce do querer, da determinação e persistência em se chegar a um objetivo. Mesmo não atingindo o alvo, quem busca e vence obstáculos, no mínimo fará coisas admiráveis.**  
+***Desenvolvimento Web*** utilizando **PHP** e **MYSQL** incluindo **desenvolvimento de sistemas web, criação de api's rest, sistemas monoliticos , Requisiçoes Ajax, mvc.**
+
+***Criação de sites e Sistemas*** com html, css, javascript, bootstrap.
+
+Já tive contanto Desenvolvinto de **sistemas MVC, Manipulação de banco de dados Mysql, Autoload com php utilizando composer, Requisições assícronas com Ajax/Javascript.
+Expêriencia com desenvolvimento de algoritimos utilizando Java.**
+<hr>
+Tenho um alto empenho em buscar soluções rapidas e eficientes, comunição clara e aberta, sinto bastente conforto em lidar com tecnologias em geral, sou uma pessoa próativa e autodidata sempre busco trazer a melhor solução para os problemas.
 
 ## Tecnologias e skills
 
