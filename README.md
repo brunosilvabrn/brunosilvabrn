@@ -17,18 +17,18 @@
 ## 🧑‍💻 PHP, JAVASCRIPT, MYSQL, HTML e CSS.
 
 
-Sou desenvolvedor web desenvolvo site e sistemas web utilizando **HTML, CSS, JAVASCRIPT**, Utilizando **PHP e MYSQL** para desenvolver backend das aplicações. 
+Desenvolvedor Web utilizando **HTML, CSS, JAVASCRIPT** e **PHP e MYSQL** para desenvolver backend das aplicações. 
 
 <img align="right" src="https://thumbs.gfycat.com/HeavyLiquidAnnelid-size_restricted.gif" />
 
 ### 📖 Conhecimentos 
 
-***Desenvolvimento Web*** utilizando **PHP** e **MYSQL** incluindo **desenvolvimento de sistemas web, criação de api's rest, sistemas monoliticos , Requisiçoes Ajax, mvc.**
+***Desenvolvimento Web*** utilizando **PHP** e **MYSQL** incluindo **desenvolvimento de sistemas web, criação de api's rest, sistemas monoliticos , Requisiçoes assícronas com Ajax, Sistemas mvc.**
 
 ***Criação de sites e Sistemas*** com html, css, javascript, bootstrap.
 
-Já tive contanto Desenvolvinto de **sistemas MVC, Manipulação de banco de dados Mysql, Autoload com php utilizando composer, Requisições assícronas com Ajax/Javascript.
-Expêriencia com desenvolvimento de algoritimos utilizando Java.**
+**Sistemas MVC, Manipulação de banco de dados Mysql, Autoload com php utilizando composer, Requisições assícronas com Ajax/Javascript.
+Expêriencia com desenvolvimento de algoritimos e estrutura de dados utilizando Java.**
 <hr>
 Tenho um alto empenho em buscar soluções rapidas e eficientes, comunição clara e aberta, sinto bastente conforto em lidar com tecnologias em geral, sou uma pessoa próativa e autodidata sempre busco trazer a melhor solução para os problemas.
 
