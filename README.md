@@ -1,4 +1,4 @@
-# Bruno Lopes Silva 🖥️  Full Stack - Web Developer
+# Bruno Lopes Silva | Fullstack - Web Developer
 
 <div class="icons">
   <a href="mailto:brunolopessilva34@gmail.com">
@@ -16,23 +16,21 @@
 
 ## 🧑‍💻 PHP, JAVASCRIPT, MYSQL, HTML e CSS.
 
-
-Desenvolvedor Web utilizando **HTML, CSS, JAVASCRIPT** e **PHP e MYSQL** para desenvolver backend das aplicações. 
+Desenvolvedor Web utilizando **HTML, CSS, JAVASCRIPT** e **PHP**. 
 
 <img align="right" src="https://thumbs.gfycat.com/HeavyLiquidAnnelid-size_restricted.gif" />
 
-### 📖 Conhecimentos 
+### 📖 Conhecimentos e experiências
 
-***Desenvolvimento Web*** utilizando **PHP** e **MYSQL** incluindo **desenvolvimento de sistemas web, criação de api's rest, sistemas monoliticos , Requisiçoes assícronas com Ajax, Sistemas mvc.**
+***Desenvolvimento Web*** utilizando **PHP** incluindo **desenvolvimento de sistemas web e criação de api's.**
 
-***Criação de sites e Sistemas*** com html, css, javascript, bootstrap.
+***Frontend*** Criação de sites e Sistemas com html, css, javascript, bootstrap.
+Experiência desenvolvimento frontend com html, css e javascript. Manipulção de elementos com jquery e bootstrap. 
 
-**Sistemas MVC, Manipulação de banco de dados Mysql, Autoload com php utilizando composer, Requisições assícronas com Ajax/Javascript.
-Expêriencia com desenvolvimento de algoritimos e estrutura de dados utilizando Java.**
+***Backend*** Experiência com desenvolvimento de sistemas MVC, POO, manipulação de banco de dados Mysql, boas práticas utizando autoload, composer, psr-4 (php), requisições assícronas com Javascript. Expêriencia com desenvolvimento de algoritimos e estrutura de dados.
 <hr>
-Tenho um alto empenho em buscar soluções rapidas e eficientes, comunição clara e aberta, sinto bastente conforto em lidar com tecnologias em geral, sou uma pessoa próativa e autodidata sempre busco trazer a melhor solução para os problemas.
 
-## Tecnologias e skills
+## Tecnologias
 
 <div class="icons">
   <img align="left" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -40,11 +38,11 @@ Tenho um alto empenho em buscar soluções rapidas e eficientes, comunição cla
   <img align="left" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="left" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="left" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="left" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<!--   <img align="left" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> -->
   <img align="left" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="left" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  <img align="left" height="35" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" />
+<!--   <img align="left" height="35" src="https://cdn.worldvectorlogo.com/logos/sublime-text.svg" /> -->
 </div>
 
 <!-- ### Hi there 👋 -->
