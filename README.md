@@ -14,13 +14,13 @@
 
 <br>
 
-## 🧑‍💻 PHP, JAVASCRIPT, MYSQL, HTML e CSS.
+## PHP, JAVASCRIPT, MYSQL, HTML e CSS.
 
 Desenvolvedor Web utilizando **HTML, CSS, JAVASCRIPT** e **PHP**. 
 
 <img align="right" src="https://thumbs.gfycat.com/HeavyLiquidAnnelid-size_restricted.gif" />
 
-### 📖 Conhecimentos e experiências
+### Conhecimentos e experiências
 
 ***Desenvolvimento Web*** utilizando **PHP** incluindo **desenvolvimento de sistemas web e criação de api's.**
 
