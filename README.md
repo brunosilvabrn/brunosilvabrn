@@ -27,13 +27,13 @@ Desenvolvedor Full Stack Web.
 
 ***Desenvolvimento Web*** utilizando **PHP** e **Mysql**
 
-***Experiência*** Criação e manutenção de sistemas em **PHP (5.6, 7.4)**. Manutençãoes e criação de integrações sistemas. 
+***Experiência*** Criação e manutenção de sistemas em **PHP (5.6, 7.4)**. Manutençãoes e criação de integrações sistemas. Criaçoes de sites com Html, Css e Javascript/jquery. Manupulação de banco de dados Mysql.
 
 ***Frontend*** Desenvolvimento e manuteção de sites e Sistemas com html, css, javascript/jquery, bootstrap.
 Experiência desenvolvimento frontend manipulações de elementos (DOM) com javascript e jquery.
 Requisiçoes ajax com fetch api e ajax/jquery.
 
-***Backend*** Experiência com desenvolvimento e manuteçãoes de sistemas utilizando ***Laravel, CodeIgniter**, **PHP 5.5 e 7.4** MVC, POO, manipulação de banco de dados **MYSQL**, boas práticas utizando autoload, composer, requisições assícronas com Javascript. Expêriencia com desenvolvimento de algoritimos e estrutura de dados.
+***Backend*** Experiência com desenvolvimento e manuteçãoes de sistemas utilizando **Laravel, CodeIgniter**, **PHP 5.5 e 7.4** MVC, POO, manipulação de banco de dados **MYSQL**, boas práticas utizando autoload, composer, requisições assícronas com Javascript. Expêriencia com desenvolvimento de algoritimos e estrutura de dados.
 <hr>
 
 ## Tecnologias
