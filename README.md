@@ -17,23 +17,26 @@
 
 <br>
 
-## PHP, JAVASCRIPT, MYSQL, HTML e CSS.
+## 💻 Desenvolvedor Full Stack Web  
 
-Desenvolvedor Full Stack Web. 
+Sou um desenvolvedor com mais de 4 anos de experiência no desenvolvimento de sistemas web, atuando em projetos como e-commerces, plataformas imobiliárias, marketplaces e aplicativos de delivery. Minha abordagem é focada em escrever código limpo, escalável e eficiente, sempre buscando as melhores soluções para cada desafio.  
 
-<img align="right" src="https://thumbs.gfycat.com/HeavyLiquidAnnelid-size_restricted.gif" />
+### 🛠 Principais Tecnologias e Habilidades  
 
-### Conhecimentos e experiências
+✅ **Linguagens & Frameworks:** PHP (Laravel, CodeIgniter), JavaScript (jQuery), HTML5, CSS3, Bootstrap  
+✅ **Bancos de Dados:** MySQL, PostgreSQL  
+✅ **Infraestrutura & DevOps:** AWS Serverless (Lambda, DynamoDB, S3, SQS, RDS), Docker, CI/CD, GitHub Actions, GitFlow  
+✅ **APIs & Integrações:** Desenvolvimento e consumo de APIs REST e Full REST, integração com gateways de pagamento, Google Maps e WhatsApp API  
+✅ **Arquitetura & Performance:** Microsserviços, mensageria (RabbitMQ, Kafka), otimização de desempenho e refatoração de código legado (incluindo PHP 5)  
+✅ **Frontend:** Desenvolvimento e manutenção de interfaces utilizando HTML, CSS, JavaScript/jQuery e Bootstrap, manipulação do DOM e requisições assíncronas (AJAX, Fetch API)  
+✅ **Boas Práticas:** SOLID, Clean Code, Design Patterns, Testes Unitários e de Integração (TDD)  
+✅ **Segurança:** Criptografia e proteção contra vulnerabilidades comuns  
+✅ **Metodologias:** Scrum, Kanban, Desenvolvimento Ágil  
 
-***Desenvolvimento Web*** utilizando **PHP** e **Mysql**
+🚀 Profissional proativo e comunicativo, sempre focado em entregar soluções eficientes e de alta qualidade, colaborando com o time para garantir o sucesso dos projetos.  
 
-***Experiência*** Criação e manutenção de sistemas em **PHP (5.6, 7.4)**. Manutençãoes e criação de integrações sistemas. Criaçoes de sites com Html, Css e Javascript/jquery. Manupulação de banco de dados Mysql.
+📩 **Contato:** brunolopessilva34@gmail.com  
 
-***Frontend*** Desenvolvimento e manuteção de sites e Sistemas com html, css, javascript/jquery, bootstrap.
-Experiência desenvolvimento frontend manipulações de elementos (DOM) com javascript e jquery.
-Requisiçoes ajax com fetch api e ajax/jquery.
-
-***Backend*** Experiência com desenvolvimento e manuteçãoes de sistemas utilizando **Laravel, CodeIgniter**, **PHP 5.5 e 7.4** MVC, POO, manipulação de banco de dados **MYSQL**, boas práticas utizando autoload, composer, requisições assícronas com Javascript. Expêriencia com desenvolvimento de algoritimos e estrutura de dados.
 <hr>
 
 ## Tecnologias
@@ -48,8 +51,6 @@ Requisiçoes ajax com fetch api e ajax/jquery.
   <img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
-  
-  <img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
   <img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" />
   <img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original-wordmark.svg" />
   <img align="left" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original-wordmark.svg" />
